@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-column: 30% 30% 30%;
+    gap: 20px;
+    justify-content: center;
+}
+
+.container .image-container {
+    width: 100%;
+    border-radius: 20px;
+}
